@@ -36,22 +36,6 @@ cd my-portfolio
 open index.html
 ```
 
-## Deployment to GitHub Pages
-
-1. Push your code to GitHub:
-   ```bash
-   git add .
-   git commit -m "Your commit message"
-   git push origin main
-   ```
-
-2. Enable GitHub Pages:
-   - Go to repository Settings → Pages
-   - Select `main` branch and `/ (root)` folder
-   - Click Save
-
-Your site will be live at: `https://YOUR_USERNAME.github.io/REPO_NAME/`
-
 ## Project Structure
 
 ```
